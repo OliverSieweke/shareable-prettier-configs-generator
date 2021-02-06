@@ -43,6 +43,7 @@ test("Configuration packages exist and are well formed", async () => {
 				".prettierrc.json",
 				"LICENSE",
 				"README.md",
+				"assets",
 				"package.json",
 				"scripts",
 			]);
